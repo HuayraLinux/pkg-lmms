@@ -1,7 +1,7 @@
 Source: lmms
 Section: sound
 Priority: optional
-Maintainer: Debian Edu Packaging Team <debian-edu-pkg-team@lists.alioth.debian.org>
+Maintainer: Fernando Toledo <ragnarok@docksud.com.ar>
 Uploaders:
  Patrick Winnertz <winnie@debian.org>
  , Petter Reinholdtsen <pere@debian.org>

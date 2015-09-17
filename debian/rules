@@ -12,7 +12,11 @@ CMAKE_OPTS+= -DWANT_ALSA=0
 endif
 
 %:
-	dh $@ --buildsystem cmake
+	dh $@ --buildsystem cmake --parallel
 
 override_dh_auto_configure:
 	dh_auto_configure -- -DCMAKE_INSTALL_LIBDIR=lib/$(DEB_HOST_MULTIARCH) $(CMAKE_OPTS)
+
+override_dh_auto_build:
+	make -C obj-${DEB_BUILD_GNU_TYPE} es.qm
+	dh_auto_build

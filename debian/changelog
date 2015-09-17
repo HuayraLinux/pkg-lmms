@@ -1,3 +1,9 @@
+lmms (1.0.3-5huayra1) unstable; urgency=medium
+
+  * Patch con traducción completa de español
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Thu, 17 Sep 2015 12:43:11 -0300
+
 lmms (1.0.3-5) unstable; urgency=low
 
   * Make lmms replace and break lmms-common (<< 1.0.0-1) to handle the
