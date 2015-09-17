@@ -1,10 +1,10 @@
 Description: update spanish translation
-Author: Diego Accorinti <diegoacco@gmail>
+Author: Diego Accorinti <diegoacco@gmail.com>
 Forwarded: no, should be forwarded
 Last-Update: 2015-09-07
 
---- lmms-1.0.3.orig/data/locale/es.ts.orig	2014-07-22 07:24:19.000000000 -0300
-+++ lmms-1.0.3/data/locale/es.ts	2015-09-17 11:25:46.000000000 -0300
+--- lmms-1.0.3.orig/data/locale/es.ts	2014-07-22 07:24:19.000000000 -0300
++++ lmms-1.0.3/data/locale/es.ts	2015-09-17 16:09:13.863734823 -0300
 @@ -1,618 +1,625 @@
  <?xml version="1.0" encoding="utf-8"?>
  <!DOCTYPE TS>
@@ -71,7 +71,7 @@ Last-Update: 2015-09-07
          <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.sourceforge.net&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.sourceforge.net&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
 -        <translation type="unfinished"></translation>
 +        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.sourceforge.net&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.sourceforge.net&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;br/&gt;
-+Traducción español Argentina por Equipo &lt;a href=&quot;http://huayra.conectarigualdad.gov.ar&quot;&gt;Huayra gnu/linux&lt;/a&gt; DFA</translation>
++Traducción español Argentina por Equipo &lt;a href=&quot;http://huayra.conectarigualdad.gov.ar&quot;&gt;Huayra gnu/linux&lt;/a&gt;</translation>
      </message>
  </context>
  <context>
@@ -3485,7 +3485,7 @@ Last-Update: 2015-09-07
      <message>
          <source>Maker: </source>
 -        <translation type="unfinished"></translation>
-+        <translation>Contructor:  </translation>
++        <translation>Desarrollador:  </translation>
      </message>
      <message>
          <source>Copyright: </source>
@@ -6423,7 +6423,7 @@ Last-Update: 2015-09-07
      <message>
          <source>Instrument plugins</source>
 -        <translation type="unfinished"></translation>
-+        <translation>Complementos de Instrumentos</translation>
++        <translation>Instrumentos</translation>
      </message>
      <message>
          <source>Incomplete monophonic imitation tb303</source>
@@ -6453,7 +6453,7 @@ Last-Update: 2015-09-07
      <message>
          <source>three powerful oscillators you can modulate in several ways</source>
 -        <translation type="unfinished"></translation>
-+        <translation>Tres osciladores de gran alcance que puede modular de varias maneras</translation>
++        <translation>Tres osciladores de gran alcance que pueden modular de varias maneras</translation>
      </message>
      <message>
          <source>Filter for importing FL Studio projects into LMMS</source>
